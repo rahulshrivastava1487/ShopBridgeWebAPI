@@ -27,3 +27,11 @@ STEP 4 : Run the Application
 Similarily all APIs can be accessed using the above example
 
 Note : Replace http://localhost:44848 with your localhost
+
+I have used the following technologies in the ShopBridgeAPI project
+
+MVC WebAPI
+SQL Server
+Entity Framework (database first approach)
+Layered Architecture
+jQuery
